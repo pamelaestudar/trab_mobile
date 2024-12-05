@@ -1,0 +1,27 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "kemia-projeto-integracao-esms",
+          "appId": "1:915439043742:android:16e9aeb3d457f3807ea78f",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "kemia-projeto-integracao-esms",
+          "configurations": {
+            "android": "1:915439043742:android:16e9aeb3d457f3807ea78f",
+            "ios": "1:915439043742:ios:dace1bfe2105be7d7ea78f",
+            "web": "1:915439043742:web:e4e0451eaf5c4bfe7ea78f"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

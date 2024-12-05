@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915439043742",
+    "project_id": "kemia-projeto-integracao-esms",
+    "storage_bucket": "kemia-projeto-integracao-esms.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915439043742:android:16e9aeb3d457f3807ea78f",
+        "android_client_info": {
+          "package_name": "com.kemia.projeto_integracao_esms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2v_cPbqS2Fw2r6ASKTl2hs6A3q4VPX2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
